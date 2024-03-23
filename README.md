@@ -47,7 +47,7 @@ The website was created as part of a web development course, hosted by Daniel Wa
 
 
 ## Getting Started
-- You probably know better than me :-) 
+You probably know better than me :-) 
 ### Prerequisites
 - Basic knowledge of HTML and CSS.
 - Visual Studio Code installed, with recommended extensions for live preview and SFTP.
