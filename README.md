@@ -12,7 +12,7 @@ The website was created as part of a web development course, hosted by Daniel Wa
 
 
 
-## Tech Stack and Tools
+### Tech Stack and Tools
 
 - HTML5
 - CSS3
@@ -21,7 +21,7 @@ The website was created as part of a web development course, hosted by Daniel Wa
 - Google Maps Embed API
 - Responsive Design Principles
 
-# Features and Learning Highlights
+## Features and Learning Highlights
 
 - HTML5 and CSS3: Utilized the latest web standards for structuring and styling the website, ensuring a modern and accessible user experience.
 
@@ -46,13 +46,13 @@ The website was created as part of a web development course, hosted by Daniel Wa
 
 
 
-# Getting Started
+## Getting Started
 - You probably know better than me :-) 
-## Prerequisites
+### Prerequisites
 - Basic knowledge of HTML and CSS.
 - Visual Studio Code installed, with recommended extensions for live preview and SFTP.
 
-## Setup and Deployment
+### Setup and Deployment
 - Clone the repository and open the project in Visual Studio Code.
 - Utilize the Live Server extension for real-time preview during development.
 - Follow the course instructions on code validation and best practices to ensure a polished final product.
