@@ -59,7 +59,7 @@ You probably know better than me :-)
 - To deploy, set up a domain and hosting (e.g., Bluehost), and use the SFTP extension in VS Code for uploading your files to the server.
 ## Feedback
 
-If you have any feedback, please reach out to us via: 
+If you have any feedback, please reach out to me via: 
 - bento.me/andrinrenz
 
 
