@@ -16,12 +16,9 @@ The website was created as part of a web development course, hosted by Daniel Wa
 
 - HTML5
 - CSS3
-***
 - Visual Studio Code 
 - VS Code Extenstions: (HTMLHint, LivePreview, SFTP - Secure File Transfer Protocol)
-***
 - Google Maps Embed API
-***
 - Responsive Design Principles
 
 # Features and Learning Highlights
